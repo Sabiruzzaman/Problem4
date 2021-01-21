@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name" translatable="false">Problem4</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back to login</string>
+    <string name="logged_id">You are Logged in</string>
+    <string name="logout">Logout</string>
+
+
+</resources>

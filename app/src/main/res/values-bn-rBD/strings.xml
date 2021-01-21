@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email">ইমেইল</string>
+    <string name="password">পাসওয়ার্ড</string>
+    <string name="login">লগিন</string>
+    <string name="register">রেজিস্টার</string>
+    <string name="logged_id">আপনি লগ ইন আছেন</string>
+    <string name="back_to_login">লগইন এ ফিরুন</string>
+    <string name="logout">লগ আউট</string>
+</resources>
